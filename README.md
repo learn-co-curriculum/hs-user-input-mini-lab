@@ -27,4 +27,4 @@ Your final output should use *string interpolation* to output the data in a full
 
 Remember, you can execute your code by typing `ruby trip.rb` in terminal from inside the directory of this lab.
 
-<a href='https://learn.co/lessons/hs-user-input-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-user-input-mini-lab' title='User Input Mini App'>User Input Mini App</a> on Learn.co and start learning to code for free.</p>
